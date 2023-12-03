@@ -47,6 +47,6 @@ const schemas = {
 const User = model("user", userSchema);
 
 module.exports = {
-    User,
-    schemas,
-}
+  User,
+  schemas,
+};
